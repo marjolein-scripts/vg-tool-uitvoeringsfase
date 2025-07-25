@@ -3,7 +3,7 @@
 ## 🔹 Fase 1 – Fundament en verkenning
 
 1.1. Projectinstructie afronden en publiceren ✅  
-1.2. MVP scherp definiëren: wat moet de Project RI&E-module minimaal kunnen?  
+1.2. MVP scherp definiëren: wat moet de Project RI&E-module minimaal kunnen? ✅  
 1.3. Typische werksituaties selecteren voor scenario-ontwikkeling (bv. damwand, kabelwerk, betonstort)  
 1.4. Overzicht maken van huidige praktijk: wat wordt nu gebruikt door V&G-coördinatoren?
 

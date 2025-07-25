@@ -2,6 +2,20 @@
 📅 2025-07-25
 
 ✏️ Gewijzigde bestanden:
+- docs/projectdagboek.md
+- docs/routeplan.md
+
+🧾 Korte toelichting:
+wijzig: docs/projectdagboek.md – bijgewerkt dagboek
+wijzig: docs/routeplan.md – bijgeweerkt met uitgevoerde acties
+
+🔖 Commit suggestie:
+wijzig: docs/projectdagboek.md – bijgewerkt dagboek, wijzig: docs/routeplan.md – bijgeweerkt met uitgevoerde acties | changelog bijgewerkt
+
+---
+📅 2025-07-25
+
+✏️ Gewijzigde bestanden:
 - README.md
 
 🧾 Korte toelichting:
