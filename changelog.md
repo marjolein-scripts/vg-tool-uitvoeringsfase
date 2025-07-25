@@ -2,6 +2,18 @@
 📅 2025-07-25
 
 ✏️ Gewijzigde bestanden:
+- README.md
+
+🧾 Korte toelichting:
+nieuw: README.md – eerste keer ingevuld
+
+🔖 Commit suggestie:
+nieuw: README.md – eerste keer ingevuld | changelog bijgewerkt
+
+---
+📅 2025-07-25
+
+✏️ Gewijzigde bestanden:
 - docs/routeplan.md
 
 🧾 Korte toelichting:
